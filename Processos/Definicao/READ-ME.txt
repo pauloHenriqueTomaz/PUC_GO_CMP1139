@@ -1,4 +1,4 @@
--	Criação dos arquivos 
+-	CriaÃ§Ã£o dos arquivos
 		- GRE _ Processo
 		- GQA _ Processo
 		- TST  _ Processo
